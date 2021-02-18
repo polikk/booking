@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/booking/static/css/main.e455c8f6.chunk.css",
+    "main.js": "/booking/static/js/main.7ea0396f.chunk.js",
+    "main.js.map": "/booking/static/js/main.7ea0396f.chunk.js.map",
+    "runtime-main.js": "/booking/static/js/runtime-main.736800e7.js",
+    "runtime-main.js.map": "/booking/static/js/runtime-main.736800e7.js.map",
+    "static/js/2.b9847927.chunk.js": "/booking/static/js/2.b9847927.chunk.js",
+    "static/js/2.b9847927.chunk.js.map": "/booking/static/js/2.b9847927.chunk.js.map",
+    "static/js/3.e32bfa07.chunk.js": "/booking/static/js/3.e32bfa07.chunk.js",
+    "static/js/3.e32bfa07.chunk.js.map": "/booking/static/js/3.e32bfa07.chunk.js.map",
+    "index.html": "/booking/index.html",
+    "static/css/main.e455c8f6.chunk.css.map": "/booking/static/css/main.e455c8f6.chunk.css.map",
+    "static/js/2.b9847927.chunk.js.LICENSE.txt": "/booking/static/js/2.b9847927.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/booking/static/media/room-2.27475281.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/booking/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/booking/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/booking/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/booking/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/booking/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.54a9b9cb.svg": "/booking/static/media/logo.54a9b9cb.svg",
+    "static/media/room-1.05b90599.jpeg": "/booking/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/booking/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/booking/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/booking/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/booking/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/booking/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/booking/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/booking/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/booking/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/booking/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/booking/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.736800e7.js",
+    "static/js/2.b9847927.chunk.js",
+    "static/css/main.e455c8f6.chunk.css",
+    "static/js/main.7ea0396f.chunk.js"
+  ]
+}
